@@ -1,4 +1,4 @@
-# WeightedEntropyKernelGraphCut-Paper-With-Code
+# WeightedEntropyKernelGraphCut-Paper-with-Code
 Entropy-based Kernel Graph Cut with Weighted K-Means for Textural Image Region Segmentation
 
 This repository presents an improved version of the unsupervised kernel graph cut algorithm, which aims to enhance the accuracy and stability of segmentation results by refining the clustering algorithm based on weighted image information.
